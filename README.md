@@ -58,19 +58,24 @@ Relação entre o ano de construção e o preço do m². O gráfico separa Casas
 
 ![Gráfico de Idade](img/valorizacao-por-idade.png)
 
-### 3. Perfil das Transações
+### 3. Dinâmica Temporal de Vendas
+Acompanhamento mensal do volume de negócios, segmentado por tipo de imóvel. O gráfico permite identificar sazonalidade e a liquidez relativa entre Casas e Apartamentos ao longo do ano.
+
+![Evolução de Vendas](img/evolucao-vendas-empilhada.png)
+
+### 4. Perfil das Transações
 Análise de como os imóveis são pagos (Financiamento vs À Vista) e o tipo jurídico da transação.
 
 | Formas de Pagamento | Natureza da Transação |
 | :---: | :---: |
 | ![Gráfico Pagamento](img/como-imoveis-sao-pagos.png) | ![Gráfico Natureza](img/tipo-transacao.png) |
 
-### 4. Distribuição Espacial
+### 5. Distribuição Espacial
 Mapa das transações validadas na região.
 
 ![Mapa Interativo](img/mapa-iterativo.png)
 
-### 5. Ruas Mais Valorizadas
+### 6. Ruas Mais Valorizadas
 Ranking das ruas com maior preço médio por m², considerando apenas logradouros com um volume mínimo de vendas para garantir a consistência estatística.
 
 ![Ranking Ruas](img/top-20-ruas.png)
