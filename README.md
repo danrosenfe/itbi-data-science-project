@@ -68,7 +68,7 @@ Análise de como os imóveis são pagos (Financiamento vs À Vista) e o tipo jur
 ### 4. Distribuição Espacial
 Mapa das transações validadas na região.
 
-![Mapa Interativo](img/mapa-iterativo.jpg)
+![Mapa Interativo](img/mapa-iterativo.png)
 
 ### 5. Ruas Mais Valorizadas
 Ranking das ruas com maior preço médio por m², considerando apenas logradouros com um volume mínimo de vendas para garantir a consistência estatística.
