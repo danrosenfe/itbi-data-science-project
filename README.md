@@ -88,7 +88,8 @@ Ranking das ruas com maior preço médio por m², considerando apenas logradouro
 
 1.  Clone o repositório.
 2.  Instale as dependências: `pip install -r requirements.txt`
-3.  Execute o notebook na pasta `notebooks/`.
+3.  No portal da Prefeitura de São Paulo faça o download do arquivo ITBI na pasta `notebooks/`. 
+4.  Execute o notebook na pasta `notebooks/`.
 
 ---
 **Autor:** rosenfe
