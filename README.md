@@ -8,13 +8,13 @@ Este projeto utiliza dados públicos de transações reais (ITBI) e do cadastro 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## Objetivo
-Estimar o preço médio por m² de forma segmentada (por porte do imóvel e década de construção), indo além da média simples para encontrar uma avaliação que se aproxima da realidade utilizando dados públicos de transações reais (ITBI) e cadastro fiscal (IPTU). Trata-se de apenas estudo estatístico, não uma avaliação oficial.
+Estimar o preço médio por m² de forma segmentada (por porte do imóvel e década de construção), indo além da média simples para encontrar uma avaliação que se aproxima da realidade utilizando dados públicos. Trata-se de apenas estudo estatístico, não uma avaliação oficial.
 
 ## Contexto
-Este é um projeto pessoal, feito por alguém que não é especialista no tema, mas que busca uma base de clareza e autonomia na percepção de mercado, utilizando o poder do Python e de dados públicos.
+Este é um projeto pessoal, feito por alguém que não é especialista no tema, mas que busca uma base de clareza e autonomia na percepção de mercado, utilizando o poder do python e de dados públicos.
 
 ## Benefício
-A grande beleza deste projeto é que ele é um ponto de partida de código aberto e pode ajudar outras pessoas. Se você desejar analisar seu próprio bairro, lembre-se: precisará adaptar o código, os critérios de limpeza e os filtros para a sua realidade. Este é um convite para a exploração e o aprendizado! :)
+A grande beleza deste projeto é que ele é um ponto de partida de código aberto e pode ajudar outras pessoas. Se você desejar analisar seu próprio bairro, lembre-se: precisará adaptar o código, os critérios de limpeza e os filtros para a sua realidade. Este é um convite para a exploração e o aprendizado!
 
 ## ⚠️ Importante
 Se você não tem familiaridade com análises de dados ou precisa de um valor com precisão legal ou profissional, é fundamental buscar a consultoria adequada de um profissional da área de avaliação imobiliária.
